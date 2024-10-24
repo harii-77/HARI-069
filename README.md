@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with Freelancing Projects
 - 💬 Ask me about UI and UX Designing
 - 📫 How to reach me: https://www.linkedin.com/in/harii77
+- 🙋‍♂️ My Portfolio: https://hariharanm-portfolio.netlify.app/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-069&show_icons=true&locale=en&include_all_commits=true&hide_border=true&theme=radical&layout=compact" alt="hari-069" /></p>
 
